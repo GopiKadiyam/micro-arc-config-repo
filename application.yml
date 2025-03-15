@@ -5,4 +5,4 @@ logging:
     total-size-cap: 100MB
 # Set root log level to INFO (default)
   level:
-    root: DEBUG
+    root: INFO
