@@ -2,4 +2,4 @@ spring:
   data:
     mongodb:
       uri: mongodb://admin:password@localhost:27017/micro_arch_db?authSource=admin
-message: "hi hello from prod order-service "
+message: "hi hello from prod update order-service "
