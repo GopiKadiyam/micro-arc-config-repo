@@ -8,3 +8,4 @@ server:
   port: 8082
   servlet:
     context-path: "/api/order"
+message: "hi hello from default order-service "
