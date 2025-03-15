@@ -3,5 +3,5 @@ spring:
     mongodb:
       uri: mongodb://localhost:27017/micro_arch_db?authSource=admin
       username: admin
-      password: {cipher}5ee961b3cdb0e75559cb1a516b8dcad2862535fb9204ceb5c7436685e2b79bd9
+      password: "{cipher}5ee961b3cdb0e75559cb1a516b8dcad2862535fb9204ceb5c7436685e2b79bd9"
 message: "hi hello from prod update order-service "

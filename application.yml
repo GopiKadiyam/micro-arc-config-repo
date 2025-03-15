@@ -6,5 +6,3 @@ logging:
 # Set root log level to INFO (default)
   level:
     root: INFO
-encrypt:
-  key: MYKEYA123b2ubgh
